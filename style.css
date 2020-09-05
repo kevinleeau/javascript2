@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgb(42, 83, 49);
+    color: blanchedalmond;
+}
+.content{
+    width: 70%;
+    margin: 0 auto;   
+}
+.flex-box{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.flex-box img{
+width: 30%;
+padding: 10px;
+box-shadow: chocolate;
+}
